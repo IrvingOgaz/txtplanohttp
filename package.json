@@ -1,0 +1,22 @@
+{
+  "name": "holamundohttp",
+  "version": "1.0.0",
+  "description": "hola mundo en texto plano usando http",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "holamundo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvingOgaz/txtplanohttp.git"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "irving ogaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvingOgaz/txtplanohttp/issues"
+  },
+  "homepage": "https://github.com/IrvingOgaz/txtplanohttp#readme"
+}
